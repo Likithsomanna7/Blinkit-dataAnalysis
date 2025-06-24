@@ -45,6 +45,7 @@ To perform exploratory data analysis (EDA) on Blinkit's dataset to extract actio
 | **Matplotlib** | Plotting graphs and trends       |
 | **Seaborn**    | Enhanced data visualizations     |
 | **Jupyter Notebook** | Interactive analysis       |
+|**PowerBI**| Interactive Dashboard|
 
 ---
 
